@@ -1,5 +1,5 @@
 # 💫 Whoami:
-Hi, I'm Mustafa Khan — a B.Tech Cybersecurity student with a strong interest in programming, Linux, networking, and practical cybersecurity.<br>
+Hi, I'm Mustafa Khan — a B.Tech(integrated) Student at MGM university<br>
 
 
 ## 🌐 Socials:
