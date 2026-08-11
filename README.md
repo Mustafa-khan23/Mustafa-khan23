@@ -2,7 +2,7 @@
   ============================================================
   GitHub Profile README - Mustafa Khan
   This file goes in a repo named EXACTLY your GitHub username
-  (e.g. github.com/MustafaKhan/MustafaKhan) to show on your profile.
+  (e.g. github.com/Mustafa-khan23/Mustafa-khan23) to show on your profile.
   ============================================================
 -->
 
@@ -75,22 +75,22 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 <!-- These auto-update using the github-readme-stats service.
-     Replace "MustafaKhan" below with your actual GitHub username! -->
+     Replace "Mustafa-khan23" below with your actual GitHub username! -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MustafaKhan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mustafa-khan23&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-khan23&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaKhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khan23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Trophy showcase - fun visual for repo/commit milestones -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MustafaKhan&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mustafa-khan23&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -120,7 +120,7 @@
 
 <!--
   TODO for Mustafa:
-  1. Replace "MustafaKhan" in stat/trophy URLs with your real GitHub username.
+  1. Replace "Mustafa-khan23" in stat/trophy URLs with your real GitHub username.
   2. Update LinkedIn, Email, and Twitter links in the Connect section.
   3. (Optional) Add a "Pinned Projects" section once you have repos to showcase.
 -->
