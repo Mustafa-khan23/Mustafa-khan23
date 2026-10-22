@@ -18,5 +18,3 @@
 - Chess ♟️
 
 ---
-
-*Learning, building, and improving every day.* 🚀
