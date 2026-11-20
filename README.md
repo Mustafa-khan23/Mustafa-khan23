@@ -10,8 +10,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Mustafa-khan23&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Mustafa-khan23?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers"/>
 
 </div>
 
@@ -76,12 +76,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mustafa-khan23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-khan23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Mustafa-khan23&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
 
 </div>
 
@@ -90,7 +90,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-khan23&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%"/>
 </div>
 
 ---
@@ -100,9 +100,9 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.chess.com/member/YOUR_CHESS_USERNAME"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"/></a>
+<a href="mailto:mustafakhan3237@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/__mustafa__pvt__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.chess.com/member/Iron-Fang23"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"/></a>
 
 <br/><br/>
 
